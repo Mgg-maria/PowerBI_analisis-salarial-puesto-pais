@@ -9,8 +9,7 @@ Este proyecto consiste en un dashboard interactivo desarrollado en **Power BI** 
 
 ## 📁 Datos
 
-La carpeta `data/` contiene la fuente de datos utilizada para este proyecto: el archivo `salary.csv`. Fue limpiado y transformado directamente en Power BI.  
-Puedes cargar este archivo en Power BI Desktop para reproducir el análisis.
+La carpeta `data/` contiene la fuente de datos utilizada para este proyecto: el archivo `salary.csv`. Fue limpiado y transformado directamente en Power BI. Puedes cargar este archivo en Power BI Desktop para reproducir el análisis.
 
 ---
 
