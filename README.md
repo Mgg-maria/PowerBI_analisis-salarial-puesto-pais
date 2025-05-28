@@ -29,7 +29,7 @@ Puedes cargar este archivo en Power BI Desktop para reproducir el análisis.
 
 ## ✅ Resultados y Beneficios
 
-Este dashboard permite a los usuarios:
+Este dashboard permite:
 
 - 🔍 Identificar los **puestos mejor remunerados**.
 - 🎓 Comparar **salarios según nivel educativo**.
